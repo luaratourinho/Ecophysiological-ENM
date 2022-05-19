@@ -6,3 +6,6 @@ Repository under construction. If interested, please contact the first author.
 Published papers with these ecophysiological analyses:
 1. Tourinho et al. 2021 (https://doi.org/10.1016/j.ecolmodel.2021.109687)
 2. Tourinho et al. 2022 (accepted)
+
+Also see: 
+Tourinho & Vale 2021 (https://doi.org/10.1111/1749-4877.12618)
